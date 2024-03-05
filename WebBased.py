@@ -1,7 +1,7 @@
 import pywhatkit as kit
 
 # Specify the phone number (with country code) and the message
-phone_number = "+966112170638" 
+phone_number = "+966" 
 message = "100% الكود شغال ان شاء الله"
 
 # Send the message instantly
