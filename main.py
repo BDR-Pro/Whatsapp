@@ -16,7 +16,7 @@ client = Client(account_sid, auth_token)
 message = client.messages.create(
     from_=from_whatsapp_number,  # Twilio WhatsApp number
     body='Hello, this is a message from Python!',  # Message body
-    to='whatsapp:+xxxx'  # Your phone number with country code
+    to='whatsapp:+966XXXXXXXX'  # Your phone number with country code
 )
 print(f"Sid = {message.sid}")
 print(f"Status = {message.status}")

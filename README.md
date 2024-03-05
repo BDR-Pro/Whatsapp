@@ -61,4 +61,10 @@ This script is released under the MIT License. See the LICENSE file for details.
 
 For support or queries, please file an issue in the repository or contact the script maintainer at `baderalotaibi3@gmail.com`.
 
+### WhatsApp Message Sent Successfully using Twilio API
+
 ![alt text](image.png)
+
+### WhatsApp Messaging Script with Free package pywhatkit
+
+![alt text](image-1.png)

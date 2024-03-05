@@ -1,0 +1,20 @@
+Date: 5/3/2024
+Time: 10:38
+Phone Number: +966XXXXXXXX
+Message: Hello from Python! This is an instant WhatsApp message.
+--------------------
+Date: 5/3/2024
+Time: 10:40
+Phone Number: +966XXXXXXXX
+Message: نجحت الخطة الرسالة من البايثون
+--------------------
+Date: 5/3/2024
+Time: 10:41
+Phone Number: +966XXXXXXXX
+Message: نجحت الخطة الرسالة من البايثون
+--------------------
+Date: 5/3/2024
+Time: 10:43
+Phone Number: +966XXXXXXXX
+Message: 100% الكود شغال ان شاء الله
+--------------------
