@@ -41,7 +41,6 @@ Before you begin, ensure you have the following:
    python main.py
    ```
 
-
 4. Upon successful execution, the script will print the message SID, status, and price information to the console, indicating that the message has been sent successfully.
 
 ## Troubleshooting
